@@ -1,0 +1,24 @@
+ul {
+    margin:0px;
+    padding:0px;
+    list-style-type: none;
+}
+
+ul > li{
+    padding:2rem;
+    font-size:1.5rem;
+
+}
+
+ul > li > a {
+    color:#666;
+    text-decoration: none;
+}
+
+.aboutName {
+    color:#FF6F59;
+}
+
+.skillset {
+    color:#3CD4ff;
+}
